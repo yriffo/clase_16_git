@@ -3,4 +3,5 @@ def chau():
     
 
 def despedida():
+    print()
     chau()
